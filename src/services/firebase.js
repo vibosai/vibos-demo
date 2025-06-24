@@ -1,0 +1,1 @@
+// Firebase configured using Danny's project
